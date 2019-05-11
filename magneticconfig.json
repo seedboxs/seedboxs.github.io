@@ -1,107 +1,106 @@
 [
-{
-"name":"BT兔子",
-"rootUrl":"https://www.btrabbit.xyz"
-},
-{
-"name":"蜘蛛搜索",
-"rootUrl":"https://www.btzhizhu.me"
-},
-{
-"name":"1337X",
-"rootUrl":"https://1337x.to"
-},
-{
-"name":"Zooqle",
-"rootUrl":"https://zooqle.com"
-},
-{
-"name":"手撕包菜",
-"rootUrl":"http://www.cilibc.com"
-},
-{
-"name":"TorrentZ",
-"rootUrl":"https://torrentz2.eu"
-},
-{
-"name":"屌丝搜",
-"rootUrl":"http://www.diaosisou.co"
-},
-{
-"name":"katcr",
-"rootUrl":"http://kickasstorrents.to"
-},
-{
-"name":"ThePirateBay",
-"rootUrl":"https://thehiddenbay.com"
-},
-{
-"name":"SkyTorrents",
-"rootUrl":"https://www.skytorrents.lol"
-},
-{
-"name":"EZTV",
-"rootUrl":"https://eztv.tf"
-},
-{
-"name":"Nyaa",
-"rootUrl":"https://nyaa.si"
-},
-{
-"name":"LimeTorrents",
-"rootUrl":"https://www.limetorrents.info"
-},
-{
-"name":"TorLock",
-"rootUrl":"https://www.torlock.com"
-},
-{
-"name":"Seedpeer",
-"rootUrl":"https://www.seedpeer.me"
-},
-{
-"name":"Monova",
-"rootUrl":"https://monova.org"
-},
-{
-"name":"Sukebei",
-"rootUrl":"https://sukebei.nyaa.si"
-},
-{
-"name":"Btso",
-"rootUrl":"https://btsow.pw"
-},
-{
-"name":"阿狸磁力",
-"rootUrl":"http://aliciliba.ws"
-},
-{
-"name":"BtDigg",
-"http://btdiggs.pw"
-},
-{
-"name":"BtKitty",
-"http://newbtkitty.org"
-},
-{
-"name":"Idope",
-"https://idope.xyz"
-},
-{
-"name":"ExtraTorrent",
-"https://extratorrent.si"
-},
-{
-"name":"BTDB",
-"https://btdb.eu"
-},
-{
-"name":"YTS",
-"https://yts.am"
-},
-{
-"name":"TorrentKitty",
-"rootUrl":"https://www.torrentkitty.tv"
-}
+        {
+		"name": "BT兔子",
+		"rootUrl": "https://www.btrabbit.xyz"
+	},
+	{
+		"name": "蜘蛛搜索",
+		"rootUrl": "https://www.btzhizhu.me"
+	},
+	{
+		"name": "1337X",
+		"rootUrl": "https://1337x.to"
+	},
+	{
+		"name": "Zooqle",
+		"rootUrl": "https://zooqle.com"
+	},
+	{
+		"name": "手撕包菜",
+		"rootUrl": "http://www.cilibc.com"
+	},
+	{
+		"name": "TorrentZ",
+		"rootUrl": "https://torrentz2.eu"
+	},
+	{
+		"name": "屌丝搜",
+		"rootUrl": "http://www.diaosisou.co"
+	},
+	{
+		"name": "katcr",
+		"rootUrl": "http://kickasstorrents.to"
+	},
+	{
+		"name": "ThePirateBay",
+		"rootUrl": "https://thehiddenbay.com"
+	},
+	{
+		"name": "SkyTorrents",
+		"rootUrl": "https://www.skytorrents.lol"
+	},
+	{
+		"name": "EZTV",
+		"rootUrl": "https://eztv.tf"
+	},
+	{
+		"name": "Nyaa",
+		"rootUrl": "https://nyaa.si"
+	},
+	{
+		"name": "LimeTorrents",
+		"rootUrl": "https://www.limetorrents.info"
+	},
+	{
+		"name": "TorLock",
+		"rootUrl": "https://www.torlock.com"
+	},
+	{
+		"name": "Seedpeer",
+		"rootUrl": "https://www.seedpeer.me"
+	},
+	{
+		"name": "Monova",
+		"rootUrl": "https://monova.org"
+	},
+	{
+		"name": "Sukebei",
+		"rootUrl": "https://sukebei.nyaa.si"
+	},
+	{
+		"name": "Btso",
+		"rootUrl": "https://btsow.pw"
+	},
+	{
+		"name": "阿狸磁力",
+		"rootUrl": "http://aliciliba.ws"
+	},
+	{
+		"name": "BtDigg",
+		"rootUrl": "http://btdiggs.pw"
+	},
+	{
+		"name":"BtKitty",
+		"rootUrl": "http://newbtkitty.org"
+	},
+	{
+		"name": "Idope",
+		"rootUrl": "https://idope.xyz"
+	},
+	{
+		"name": "ExtraTorrent",
+		"rootUrl": "https://extratorrent.si"
+	},
+	{
+		"name": "BTDB",
+		"rootUrl": "https://btdb.eu"
+	},
+	{
+		"name": "YTS",
+		"rootUrl": "https://yts.am"
+	},
+	{
+		"name": "TorrentKitty",
+		"rootUrl": "https://www.torrentkitty.tv"
+	}
 ]
-
