@@ -1,106 +1,132 @@
 [
         {
-		"name": "BT兔子",
-		"rootUrl": "https://www.btrabbit.xyz"
+		"name": "Rarbg",
+		"rootUrl": "https://rarbgprx.org",
+		"test_url": "https://rarbgprx.org/torrents.php"
 	},
 	{
 		"name": "蜘蛛搜索",
-		"rootUrl": "https://www.btzhizhu.me"
+		"rootUrl": "https://www.btzhizhu.me",
+		"test_url": "https://www.btzhizhu.me/search/home/"
 	},
 	{
 		"name": "1337X",
-		"rootUrl": "https://www.1337x.st"
+		"rootUrl": "https://www.1337x.st",
+		"test_url": "https://www.1337x.st/search/home/1/"
 	},
 	{
 		"name": "Zooqle",
-		"rootUrl": "https://zooqle.com"
+		"rootUrl": "https://zooqle.com",
+		"test_url": "https://zooqle.com/search?q=home"
 	},
 	{
 		"name": "手撕包菜",
-		"rootUrl": "http://www.btbaocai.in"
+		"rootUrl": "http://www.btbaocai.in",
+		"test_url": "http://www.btbaocai.in/search/home/"
 	},
 	{
 		"name": "TorrentZ",
-		"rootUrl": "https://torrentz2.eu"
+		"rootUrl": "https://torrentz2.eu",
+		"test_url": "https://torrentz2.eu/search?f=home"
 	},
 	{
 		"name": "屌丝搜",
-		"rootUrl": "http://www.diaosisou.co"
+		"rootUrl": "http://www.diaosisou.co",
+		"test_url": "http://www.diaosisou.co/list/home/1"
 	},
 	{
 		"name": "katcr",
-		"rootUrl": "https://kickasstorrent.cr"
+		"rootUrl": "https://kickasstorrent.cr",
+		"test_url": "https://kickasstorrent.cr/usearch/home/"
 	},
 	{
 		"name": "ThePirateBay",
-		"rootUrl": "https://thehiddenbay.com"
+		"rootUrl": "https://thehiddenbay.com",
+		"test_url": "https://thehiddenbay.com/search/home/1/99/0"
 	},
 	{
 		"name": "SkyTorrents",
-		"rootUrl": "https://www.skytorrents.lol"
+		"rootUrl": "https://www.skytorrents.lol",
+		"test_url": "https://www.skytorrents.lol/?query=home"
 	},
 	{
 		"name": "EZTV",
-		"rootUrl": "https://eztv.io"
+		"rootUrl": "https://eztv.io",
+		"test_url": "https://eztv.io/search/home"
 	},
 	{
 		"name": "Nyaa",
-		"rootUrl": "https://nyaa.si"
+		"rootUrl": "https://nyaa.si",
+		"test_url": "https://nyaa.si/?f=0&c=0_0&q=home"
 	},
 	{
 		"name": "LimeTorrents",
-		"rootUrl": "https://www.limetorrents.info"
+		"rootUrl": "https://www.limetorrents.info",
+		"test_url": "https://www.limetorrents.info/search/all/home/"
 	},
 	{
 		"name": "TorLock",
-		"rootUrl": "https://www.torlock.com"
+		"rootUrl": "https://www.torlock.com",
+		"test_url": "https://www.torlock.com/all/torrents/home.html"
 	},
 	{
 		"name": "Seedpeer",
-		"rootUrl": "https://www.seedpeer.me"
+		"rootUrl": "https://www.seedpeer.me",
+		"test_url": "https://www.seedpeer.me/search/home"
 	},
 	{
 		"name": "Monova",
-		"rootUrl": "https://monova.org"
+		"rootUrl": "https://monova.org",
+		"test_url": "https://monova.org/search?term=home"
 	},
 	{
 		"name": "Sukebei",
-		"rootUrl": "https://sukebei.nyaa.si"
+		"rootUrl": "https://sukebei.nyaa.si",
+		"test_url": "https://sukebei.nyaa.si/?f=0&c=0_0&q=home"
 	},
 	{
 		"name": "Btso",
-		"rootUrl": "https://btsow.pw"
+		"rootUrl": "https://btsow.pw",
+		"test_url": "https://btsow.pw/search/home"
 	},
 	{
 		"name": "阿狸磁力",
-		"rootUrl": "http://aliciliba.ws"
+		"rootUrl": "http://aliciliba.ws",
+		"test_url": "http://aliciliba.ws/list/home/1-0-0/"
 	},
 	{
 		"name": "BtDigg",
-		"rootUrl": "http://btdiggba.pw"
+		"rootUrl": "http://btdiggba.pw",
+		"test_url": "http://btdiggba.pw/search/aG9tZQ/1/0/0.html"
 	},
 	{
 		"name":"BtKitty",
-		"rootUrl": "http://newbtkitty.org"
+		"rootUrl": "http://newbtkitty.org",
+		"test_url": "http://newbtkitty.org/search/y8jPTQUA/1/0/0.html"
 	},
 	{
 		"name": "Idope",
-		"rootUrl": "https://idope.xyz"
+		"rootUrl": "https://idope.xyz",
+		"test_url": "https://idope.xyz"
 	},
 	{
 		"name": "ExtraTorrent",
-		"rootUrl": "https://extratorrent.si"
+		"rootUrl": "https://extratorrent.si",
+		"test_url": "https://extratorrent.si/search/?search=home&new=1&x=0&y=0"
 	},
 	{
 		"name": "BTDB",
-		"rootUrl": "https://btdb.eu"
+		"rootUrl": "https://btdb.eu",
+		"test_url": "https://btdb.eu/?search=home"
 	},
 	{
 		"name": "YTS",
-		"rootUrl": "https://yts.am"
+		"rootUrl": "https://yts.am",
+		"test_url": "https://yts.am"
 	},
 	{
 		"name": "TorrentKitty",
-		"rootUrl": "https://www.torrentkitty.tv"
+		"rootUrl": "https://www.torrentkitty.tv",
+		"test_url": "https://www.torrentkitty.tv/search/home/"
 	}
 ]
