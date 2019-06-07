@@ -11,8 +11,8 @@
 	},
 	{
 		"name": "1337X",
-		"rootUrl": "https://www.1337x.st",
-		"test_url": "https://www.1337x.st/search/home/1/"
+		"rootUrl": "https://www.1337x.to",
+		"test_url": "https://www.1337x.to/search/home/1/"
 	},
 	{
 		"name": "Zooqle",
