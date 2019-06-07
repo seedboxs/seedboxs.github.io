@@ -36,8 +36,8 @@
 	},
 	{
 		"name": "katcr",
-		"rootUrl": "https://kickasstorrent.cr",
-		"test_url": "https://kickasstorrent.cr/usearch/home/"
+		"rootUrl": "https://kickasstorrents.to",
+		"test_url": "https://kickasstorrents.to/usearch/home/"
 	},
 	{
 		"name": "ThePirateBay",
