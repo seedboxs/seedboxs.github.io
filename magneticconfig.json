@@ -129,4 +129,9 @@
 		"rootUrl": "https://www.torrentkitty.tv",
 		"test_url": "https://www.torrentkitty.tv/search/home/"
 	}
+	{
+		"name": "TorrentGalaxy",
+		"rootUrl": "https://torrentgalaxy.to/",
+		"test_url": "https://torrentgalaxy.to/torrents.php?search=home"
+	}
 ]
