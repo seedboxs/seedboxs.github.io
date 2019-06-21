@@ -56,15 +56,14 @@
 	
 	　　var langType = navigator.appName;
 	　　if (langType == "Netscape"){
-		　　var lang = navigator.language;//获取浏览器配置语言，支持非IE浏览器
+		　　var lang = navigator.language;
 	　　}else{
-		　　var lang = navigator.userLanguage;//获取浏览器配置语言，支持IE5+ == navigator.systemLanguage
+		　　var lang = navigator.userLanguage;
 	　　};
-	　　//var lang = lang.substr(0, 2);//获取浏览器配置语言前两位
-	　　if (lang == "zh-cn"){
+	　　if (lang == "zh-CN"){
 	   　　 window.location.replace('https://seedboxs.me/lang/zh-cn/index.html');
-	　　}else if (lang == "zh-hk"||lang == "zh-tw"||lang == "zh-mo"||lang == "zh-sg"){
-	   　　 window.location.replace('https://seedboxs.me/lang/zh-hk/index.html');
+	　　}else if (lang == "zh-HK"||lang == "zh-TW"||lang == "zh-MO"||lang == "zh-SG"){
+	   　　 window.location.replace('https://seedboxs.me/lang/zh-tw/index.html');
 	　　}
 	</script>
 </head>
