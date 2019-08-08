@@ -2,7 +2,7 @@
 	"isForce":true,
 	"packageName":"com.torrentsearch.magnetsearch",
 	"versionName":"2.0.2",
-	"versionCode":20190808,
+	"versionCode":20190807,
 	"website":"market://details?id=com.torrentsearch.magnetsearch",
 	"content":"<!DOCTYPE html><h5>App 2.0.2 update reminder</h5><p>Users using the old version should update to the latest version as soon as possible, the old version is no longer available!</p></html>"
 }
