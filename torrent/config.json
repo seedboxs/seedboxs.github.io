@@ -29,6 +29,11 @@
 		"rootUrl": "https://torrentz2.eu",
 		"test_url": "https://torrentz2.eu/search?f=home"
 	},
+		{
+		"name": "大白菜",
+		"rootUrl": "https://dabaicai.ml",
+		"test_url": "https://dabaicai.ml/infolist.php?q=home"
+	},
 	{
 		"name": "屌丝搜",
 		"rootUrl": "http://www.diaosisou8.com",
