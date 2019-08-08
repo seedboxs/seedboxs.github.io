@@ -21,8 +21,8 @@
 	},
 		{
 		"name": "大白菜",
-		"rootUrl": "sds",
-		"test_url": "sds"
+		"rootUrl": "https://dabaicai.ml",
+		"test_url": "https://dabaicai.ml/infolist.php?q=home"
 	},
 	{
 		"name": "手撕包菜",
