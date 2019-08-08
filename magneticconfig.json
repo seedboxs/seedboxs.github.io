@@ -6,8 +6,8 @@
 	},
 	{
 		"name": "蜘蛛搜索",
-		"rootUrl": "https://www.btzhizhu.me",
-		"test_url": "https://www.btzhizhu.me/search/home/"
+		"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "1337X",
@@ -19,20 +19,25 @@
 		"rootUrl": "https://zooqle.com",
 		"test_url": "https://zooqle.com/search?q=home"
 	},
+		{
+		"name": "大白菜",
+		"rootUrl": "sds",
+		"test_url": "sds"
+	},
 	{
 		"name": "手撕包菜",
-		"rootUrl": "http://www.btbaocai.pw",
-		"test_url": "http://www.btbaocai.pw/search/home/"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "TorrentZ",
-		"rootUrl": "https://torrentz2.eu",
-		"test_url": "https://torrentz2.eu/search?f=home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "屌丝搜",
-		"rootUrl": "http://www.diaosisou8.com",
-		"test_url": "http://www.diaosisou8.com/list/home/1"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "katcr",
@@ -46,8 +51,8 @@
 	},
 	{
 		"name": "SkyTorrents",
-		"rootUrl": "https://www.skytorrents.lol",
-		"test_url": "https://www.skytorrents.lol/?query=home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "EZTV",
@@ -56,8 +61,8 @@
 	},
 	{
 		"name": "Nyaa",
-		"rootUrl": "https://nyaa.si",
-		"test_url": "https://nyaa.si/?f=0&c=0_0&q=home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "LimeTorrents",
@@ -76,8 +81,8 @@
 	},
 	{
 		"name": "Monova",
-		"rootUrl": "https://monova.org",
-		"test_url": "https://monova.org/search?term=home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "Sukebei",
@@ -86,23 +91,23 @@
 	},
 	{
 		"name": "Btso",
-		"rootUrl": "https://btspread.com",
-		"test_url": "https://btspread.com/search/home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "阿狸磁力",
-		"rootUrl": "http://aliciliba.ws",
-		"test_url": "http://aliciliba.ws/list/home/1-0-0/"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "BtDigg",
-		"rootUrl": "http://btdigg8.cc",
-		"test_url": "http://btdigg8.cc/search/aG9tZQ/1/0/0.html"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name":"BtKitty",
-		"rootUrl": "http://newbtkitty.org",
-		"test_url": "http://newbtkitty.org/search/y8jPTQUA/1/0/0.html"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "Idope",
@@ -116,8 +121,8 @@
 	},
 	{
 		"name": "BTDB",
-		"rootUrl": "https://btdb.eu",
-		"test_url": "https://btdb.eu/?search=home"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "YTS",
@@ -126,8 +131,8 @@
 	},
 	{
 		"name": "TorrentKitty",
-		"rootUrl": "https://www.torrentkitty.tv",
-		"test_url": "https://www.torrentkitty.tv/search/home/"
+	"rootUrl": "httpas",
+		"test_url": "htts"
 	},
 	{
 		"name": "TorrentGalaxy",
