@@ -1,8 +1,8 @@
 {
-	"isForce":false,
+	"isForce":true,
 	"packageName":"com.torrentsearch.magnetsearch",
 	"versionName":"2.0.2",
 	"versionCode":20190807,
-	"website":"https://pan.bitqiu.com/promote-invite?mafrom=promote&mipos=cps&uid=108238050/",
-	"content":"<!DOCTYPE html><h5>比特球-離線下載</h5><p><a href=\"https://pan.bitqiu.com/promote-invite?mafrom=promote&mipos=cps&uid=108238050\">比特球雲盤</a>支持一鍵離線下載，高清雲預覽，不限速高速下載，註冊即可獲3天特權體驗卡，</p></html>"
+	"website":"market://details?id=com.torrentsearch.magnetsearch",
+	"content":"<!DOCTYPE html><h5>應用2.0.2更新提醒</h5><p>使用舊版本的用戶請盡快更新到最新版本,舊版本不再可用！</p><p>请选择下面的方式更新:</p><p><a href=\"https://www.lanzous.com/b838521\">蓝奏云</a></p><p><a href=\"market://details?id=com.torrentsearch.magnetsearch\">GooglePlay</a></p></html>"
 }
