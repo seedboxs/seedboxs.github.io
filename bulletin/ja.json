@@ -1,8 +1,8 @@
 {
-	"isForce":true,
+	"isForce":false,
 	"packageName":"com.torrentsearch.magnetsearch",
 	"versionName":"2.0.2",
 	"versionCode":20190807,
 	"website":"market://details?id=com.torrentsearch.magnetsearch",
-	"content":"<!DOCTYPE html><h5>アプリケーション2.0.2更新リマインダー</h5><p>古いバージョンを使用しているユーザーは、できるだけ早く最新バージョンに更新する必要があります。古いバージョンは使用できなくなりました！</p></html>"
+	"content":"<!DOCTYPE html><h5>とても使いやすいInstagramの画像をダウンロードします</h5><b><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a></b></html>"
 }

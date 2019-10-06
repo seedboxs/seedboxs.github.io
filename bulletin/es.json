@@ -1,8 +1,8 @@
 {
-	"isForce":true,
+	"isForce":false,
 	"packageName":"com.torrentsearch.magnetsearch",
 	"versionName":"2.0.2",
 	"versionCode":20190807,
 	"website":"market://details?id=com.torrentsearch.magnetsearch",
-	"content":"<!DOCTYPE html><h5>Recordatorio de actualización de la aplicación 2.0.2</h5><p>Los usuarios que usan la versión anterior deben actualizar a la última versión lo antes posible, ¡la versión anterior ya no está disponible!</p></html>"
+	"content":"<!DOCTYPE html><h5>Una descarga de fotos de video de Instagram muy útil</h5><b><a href=\"market://details?id=repost.share.instagram.videodownloader.photodownloader\">Google Play</a></b></html>"
 }
