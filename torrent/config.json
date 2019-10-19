@@ -26,8 +26,8 @@
 	},
 	{
 		"name": "TorrentZ",
-		"rootUrl": "https://torrentz2.eu",
-		"test_url": "https://torrentz2.eu/search?f=home"
+		"rootUrl": "https://torrentz2.is",
+		"test_url": "https://torrentz2.is/search?f=home"
 	},
 		{
 		"name": "大白菜",
