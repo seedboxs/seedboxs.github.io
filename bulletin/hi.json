@@ -1,5 +1,5 @@
 {
-	"isForce":true,
+	"isForce":false,
 	"packageName":"com.torrentsearch.magnetsearch",
 	"versionName":"2.0.2",
 	"versionCode":20190807,
